@@ -1,4 +1,4 @@
-﻿using api.message.Domain.Ports.UseCases;
+﻿using api.message.Domain.Ports.Inbound.UseCases;
 using api.message.Domain.UseCases;
 
 namespace api.message.Adapters.Inbound.Configuration

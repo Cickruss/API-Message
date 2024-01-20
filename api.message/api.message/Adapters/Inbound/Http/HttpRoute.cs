@@ -1,6 +1,6 @@
 ﻿using api.message.Domain.Base;
 using api.message.Domain.Models;
-using api.message.Domain.Ports.UseCases;
+using api.message.Domain.Ports.Inbound.UseCases;
 
 namespace api.message.Adapters.Inbound.Http
 {

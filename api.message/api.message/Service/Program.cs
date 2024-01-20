@@ -1,11 +1,12 @@
 using api.message.Adapters.Inbound.Http;
 using api.message.Service.Configuration;
-ConfigurationService configurationService = new ConfigurationService();
 var builder = WebApplication.CreateBuilder(args);
+ConfigurationService configurationService =
+    new ConfigurationService(builder.Services, builder.Configuration);
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-configurationService.AddServices(builder);
+configurationService.AddServices();
 
 var app = builder.Build();
 if (app.Environment.IsDevelopment())

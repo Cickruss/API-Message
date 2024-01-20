@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\icaro\\Projetos\\api.message\\api.message\\api.message.csproj": {}
+    "C:\\Users\\icaro\\Projetos\\API-Message\\api.message\\api.message\\api.message.csproj": {}
   },
   "projects": {
-    "C:\\Users\\icaro\\Projetos\\api.message\\api.message\\api.message.csproj": {
+    "C:\\Users\\icaro\\Projetos\\API-Message\\api.message\\api.message\\api.message.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\icaro\\Projetos\\api.message\\api.message\\api.message.csproj",
+        "projectUniqueName": "C:\\Users\\icaro\\Projetos\\API-Message\\api.message\\api.message\\api.message.csproj",
         "projectName": "api.message",
-        "projectPath": "C:\\Users\\icaro\\Projetos\\api.message\\api.message\\api.message.csproj",
+        "projectPath": "C:\\Users\\icaro\\Projetos\\API-Message\\api.message\\api.message\\api.message.csproj",
         "packagesPath": "C:\\Users\\icaro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\icaro\\Projetos\\api.message\\api.message\\obj\\",
+        "outputPath": "C:\\Users\\icaro\\Projetos\\API-Message\\api.message\\api.message\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\icaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
